@@ -1,0 +1,6 @@
+framework module Pods_Easy2BallaTests {
+  umbrella header "Pods-Easy2BallaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
